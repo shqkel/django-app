@@ -7,4 +7,5 @@ DEBUG = True
 ALLOWED_HOSTS = [
     'eb-django-app-env.eba-fz43szeq.ap-northeast-2.elasticbeanstalk.com',
     'shqkel.space',
+    'www.shqkel.space',
 ]
